@@ -1,0 +1,186 @@
+    1  sudo apt-get install keepassx
+    2  root@dlp:~# echo $LANG
+    3  echo $LANG
+    4  sudo apt-get install cmake
+    5  sudo apt-get install clang
+    6  sudo apt-get install gdb
+    7  sudo apt-get install telegram
+    8  sudo apt-get install telegramm
+    9  sudo apt-get install software-center
+   10  sudo apt-get install software-center*
+   11  git
+   12  sudo apt install git
+   13  git
+   14  git clone https://github.com/yaskev/cparty_hw1
+   15  git
+   16  git pull
+   17  git help
+   18  lc
+   19  ls -d */
+   20  cd cparty_hw1
+   21  git pull
+   22  run clion
+   23  clion
+   24  git clone https://github.com/cubazis/inno_ansic_spring
+   25  sudo apt-get install check
+   26  cd build
+   27  sudo apt-get intsall threads
+   28  sudo apt-get install threads
+   29  sudo apt-get install ctest
+   30  cd
+   31  cmake ..
+   32  cd /cparty_hw1
+   33  cd cparty_hw1
+   34  cmake ..
+   35  cmake
+   36  ctest
+   37  ls
+   38  cd tests
+   39  cmake
+   40  cmake ..
+   41  ctest --output-on-failure
+   42  ls
+   43  cd test_task.c
+   44  cdtest test_task.c
+   45  ctest test_task.c
+   46  sudo apt-get install valgrind
+   47  cd
+   48  ls
+   49  cd cparty_hw1
+   50  git commit
+   51  cd
+   52  git clone https://github.com/yaskev/cparty_hw1
+   53  cd build
+   54  ls
+   55  cd cmake-build-debug
+   56  cmake ..
+   57  ctest --output-on-failure .
+   58  g++
+   59  sudo apt install g++
+   60  gcc
+   61  sudo apt install math
+   62  sudo apt install cmath
+   63  sudo apt uninstall gcc
+   64  sudo apt purge gcc
+   65  sudo apt install gcc
+   66  sudo apt autoremove
+   67  ls
+   68  cd cmake-build-debug/
+   69  cmake ..
+   70  make
+   71  ctest --output-on-failure .
+   72  gcc -lm
+   73  make
+   74  autoreconf
+   75  sudo apt install autotools
+   76  sudo apt install autoconf
+   77  sudo apt install ltime
+   78  sudo apt install pkg-config
+   79  ls
+   80  cd cparty_hw1
+   81  git status
+   82  git add *
+   83  status
+   84  git status
+   85  git commit -m Added htoi function and its unit tests.
+   86  git commit -m "Added htoi function and its unit tests."
+   87  git config --global credential.helper cache
+   88  git config credential.helper store
+   89  git push https://github.com/repo.git
+   90  cd
+   91  git config credential.helper store
+   92  cd cparty_hw1
+   93  git config --list
+   94  git config --global user.name "ilshat.fatkhullin"
+   95  git config --global user.email "ilshat.fatkhullin@gmail.com"
+   96  git config --list
+   97  git commit -m "Added htoi implementation and its unit tests."
+   98  git push
+   99  cd
+  100  ls
+  101  cd cparty_hw1/
+  102  git add *
+  103  git status
+  104  git commit -m "Fixed htoi and its unit tests."
+  105  git push
+  106  cd
+  107  ls
+  108  cd cparty_hw1/
+  109  git pull
+  110  git add *
+  111  git status
+  112  git commit -m "Added squeeze function and its unit tests."
+  113  git pull
+  114  git status
+  115  git add *
+  116  git status
+  117  git commit -m "Merged."
+  118  git push
+  119  git add *
+  120  git status
+  121  git commit -m "Added any function and its unit tests."
+  122  git push
+  123  git pull
+  124  git push
+  125  git pull
+  126  git commit -m "Added any function and its unit tests."
+  127  git pull
+  128  git push
+  129  git add *
+  130  git status
+  131  git commit -m "Added setbits function and its unit tests."
+  132  git push
+  133  git add *
+  134  git commit -m "Added binsearch function and its unit tests."
+  135  git push
+  136  git pull
+  137  git push
+  138  git status
+  139  git add *
+  140  git status
+  141  git commit -m "Merged."
+  142  git push
+  143  sudo apt-get install docker
+  144  sudo apt-get install docker-ce
+  145  clear
+  146  docker
+  147  clear
+  148  sudo apt-get install docker
+  149  docker
+  150  path
+  151  clear
+  152  ls -h
+  153  cd .usr
+  154  docker
+  155  snap info docker
+  156  sudo update
+  157  sudo apt-get update
+  158  docker
+  159  sudo apt-get install docker
+  160  sudo apt autoremove
+  161  sudo apt-get install docker
+  162  docker
+  163  sudo snap install docker
+  164  docker
+  165  git clone https://github.com/ilshat-fatkhullin/operating_systems_week1.git
+  166  git
+  167  git init
+  168  git rm
+  169  rm -r .git
+  170  ls
+  171  cd operating_systems_week1/
+  172  git init
+  173  mkdir ~/week1
+  174  mkdir week1
+  175  cd week1
+  176  ls
+  177  ls /usr/bin
+  178  help ls
+  179  ls help
+  180  man ls
+  181  grep /usr/bin
+  182  ls /usr/bin | grep gcc
+  183  ls /usr/bin -r | grep gcc | 
+  184  ls /usr/bin -r | grep gcc 
+  185  ls /usr/bin -r | grep gcc > ex1.txt
+  186  history > ex2.txt
